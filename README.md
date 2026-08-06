@@ -1,4 +1,4 @@
-solutions for some of the codeforces questions
+solutions for codeforces questions
 
 code forces account - https://codeforces.com/profile/shhhhank
 
